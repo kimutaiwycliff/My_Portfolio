@@ -31,9 +31,9 @@ const ExperienceSection = ({ jobDetails }) => {
       {/* JOB DESC */}
       <div className="p-3 text-sm italic">{description} </div>
       {/* JOB DATE */}
-      <div className="p-3 text-blue-300 text-sm font-semibold">{date} </div>
+      <div className="p-3 text-red-400 text-sm font-semibold">{date} </div>
       {/* JOB COMPANY */}
-      <div className="p-1 bg-blue-50 text-sm font-semibold w-fit opacity-70">
+      <div className="p-1 bg-blue-100 text-sm font-semibold w-fit opacity-70">
         {company}
       </div>
     </div>
