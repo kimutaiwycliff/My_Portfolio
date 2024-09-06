@@ -54,7 +54,7 @@ const AboutPage = () => {
               But my journey didn't start with code. Back in 2019, while working
               on a road upgrade project, I discovered a deep fascination with
               geospatial data analysis and quality control. That curiosity
-              quickly grew into a passion. Since then, I’ve developed GIS
+              quickly grew into a passion. Since then, I&rsquo;ve developed GIS
               desktop applications, conducted spatial analysis for renewable
               energy initiatives, and performed topographic surveys that
               influence real-world decisions. Today, as a Senior GIS Desktop
@@ -62,15 +62,16 @@ const AboutPage = () => {
               data quality and transforming complex datasets into actionable
               insights. <br />
               <br />
-              When I'm not coding or immersed in GIS work, you’ll likely find me
-              automating geoprocessing tasks, contributing to open-source
-              geospatial projects, or exploring advancements in data analytics.
-              Outside of work, I love hiking, reading about tech trends, and
-              spending time with family and friends.
+              When I'm not coding or immersed in GIS work, you&rsquo;ll likely
+              find me automating geoprocessing tasks, contributing to
+              open-source geospatial projects, or exploring advancements in data
+              analytics. Outside of work, I love hiking, reading about tech
+              trends, and spending time with family and friends.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              "The hardest choices require the strongest wills." – Thanos
+              &ldquo;The hardest choices require the strongest wills.&ldquo; -
+              Thanos
             </span>
 
             {/* BIOGRAPHY SCROLL SVG */}
